@@ -1,0 +1,2 @@
+Con base a los resultados obtenidos al correr el programa con cada optimización, la mejor opción es tener un CPU más rapido con 6 instrucciones. 
+Redujo el tiempo promedio, no llego a un cuello de botella y las demás optimizaziones no fueron tan eficientes.
